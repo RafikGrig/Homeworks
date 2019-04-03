@@ -30,7 +30,7 @@ namespace ComplexNumbers
             Console.WriteLine(com);
             com = com1 / com2;
             Console.WriteLine(com);
-            Console.WriteLine(com.Magnitude());
+            Console.WriteLine(com.Magnitude());            
         }
     }
 
